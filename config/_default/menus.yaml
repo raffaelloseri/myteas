@@ -13,8 +13,8 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Teas
+    url: teas
     weight: 50
   - name: Contact
     url: contact
