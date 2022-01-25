@@ -1,10 +1,9 @@
 ---
-title: "Sencha Ariake"
+title: "Sencha Ariake (煎茶 有明)"
 authors:
 - Tea in Italy
 author_notes:
-- "Painter"
-- "Publisher"
+- "Varese (I)"
 date: ""
 doi: ""
 
