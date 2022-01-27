@@ -1,5 +1,5 @@
 ---
-title: "First Flush &quot;Competition Grade;&quot Laoshan Green Tea"
+title: "First Flush &quotCompetition Grade&quot Laoshan Green Tea"
 authors:
 - Tea Runners
 author_notes:
