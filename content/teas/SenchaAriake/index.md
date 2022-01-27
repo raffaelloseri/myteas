@@ -76,7 +76,7 @@ slides:
 ...
 
 <strong>Aromas:</strong><br />
-:iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
+: iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
 
 
 
