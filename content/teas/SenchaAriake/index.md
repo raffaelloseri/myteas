@@ -64,6 +64,9 @@ projects: []
 slides:
 ---
 
+<b>Origin:</b><br />
+: Kyushu
+
 <b>Colour:</b><br />
 : an attractive green colour
 : slightly acidic
@@ -75,10 +78,16 @@ slides:
 <b>Flavour:</b><br />
 ...
 
-<strong>Aromas:</strong><br />
+<b>Aromas:</b><br />
 : iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
 
-
+<b>Notes:</b><br />
+: It is produced in limited quantity (22 kg), through the Fukamushi-Sencha method
 
 <b>Sources:</b><br />
 https://www.palaisdesthes.com/en/sencha-ariake-284.html
+https://japanesetea.sg/japanese-tea-pedia/fukamushi-sencha/
+
+
+
+Il Sencha Ariake è un'ottimo Tè verde giapponese proveniente dal Kyushu, isola situata nel sud del paese. Sapore freschissimo, delicato e leggermente floreale. Si differenzia dagli altri Sencha Giapponesi in quanto subisce un trattamento termico più lungo. E' un Tè verde raffinato, di qualità superiore. Questo Tè viene prodotto in quantità limitata (solo 22kg all'anno) in un apposito campo riservato a Tea in Italy. Garantiamo provenienza, freschezza e qualità!
