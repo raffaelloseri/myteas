@@ -68,19 +68,16 @@ slides:
 ...
 
 <b>Texture in the mouth:</b><br />
-...
+: smooth and velvety
 
 <b>Flavour:</b><br />
 ...
 
 <strong>Aromas:</strong><br />
-
-
-iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
+:iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
 
 
 : an attractive green colour
-: smooth and velvety
 : slightly acidic
 
 <b>Sources:</b><br />
