@@ -75,13 +75,12 @@ slides:
 
 <b>Aromas:</b><br />
 
-iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
+iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)<br />
 
 
 : an attractive green colour
 : smooth and velvety
 : slightly acidic
-:
 
 <b>Sources:</b><br />
-https://www.palaisdesthes.com/en/sencha-ariake-284.html
+https://www.palaisdesthes.com/en/sencha-ariake-284.html<br />
