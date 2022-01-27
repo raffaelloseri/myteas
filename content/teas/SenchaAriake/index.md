@@ -26,7 +26,7 @@ abstract:
 summary:
 
 tags:
-- green tea
+- Green tea
 - Japan
 featured: false
 
@@ -64,18 +64,23 @@ projects: []
 slides:
 ---
 
-<b>Text:</b><br />
+<b>Colour:</b><br />
 ...
 
-<b>Description:</b><br />
+<b>Texture in the mouth:</b><br />
 ...
 
-<b>Size of the original:</b><br />
-(L) 24.1 × 36.4, (C) 25.1 × 36.7, (R) 25.1 × 36.7 cm
+<b>Flavour:</b><br />
+...
 
-<b>Condition:</b><br />
-??
+<b>Aromas:</b><br />
+...
+
+
+: an attractive green colour
+: smooth and velvety
+: slightly acidic
+: iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
 
 <b>Sources:</b><br />
-https://collections.lacma.org/node/201370<br />
-https://www.yamada-shoten.com/onlinestore_pre/detail.php?item_id=56725
+https://www.palaisdesthes.com/en/sencha-ariake-284.html
