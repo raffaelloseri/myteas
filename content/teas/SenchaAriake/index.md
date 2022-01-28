@@ -80,9 +80,11 @@ slides:
 : Iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note)
 
 <b>Notes:</b><br />
+: The name of the tea comes from the former town of Ariake (有明町, Ariake-chō) located in Soo District, Kagoshima Prefecture, Japan. In 2006, Ariake, together Matsuyama, merged into the city of Shibushi.
+: As most Japanese green tea, this tea is steamed (and not pan roasted). The characteristic of this Sencha in particular is that it is a *fukamushi* (深蒸し) or deep steamed Sencha (https://japanesetea.sg/japanese-tea-pedia/fukamushi-sencha/). Fukamushi tea is steamed for 1-2', in contrast with *futsuumushi* (普通蒸し) tea, steamed for 30''-1', and *asamushi* (浅蒸し), or light steamed tea, steamed for less than 30''.
+
+
 : It is produced in limited quantity (22 kg) for the seller. It is steamed through the Fukamushi-Sencha method .
-The name of the tea comes from the former town of Ariake (有明町, Ariake-chō) located in Soo District, Kagoshima Prefecture, Japan. In 2006, Ariake, together Matsuyama, merged into the city of Shibushi.
-As most Japanese green tea, this tea is steamed (and not pan roasted). The characteristic of this Sencha in particular is that it is a *fukamushi* (深蒸し) or deep steamed Sencha (https://japanesetea.sg/japanese-tea-pedia/fukamushi-sencha/). The tea is steamed for 1-2'. 
 
 steamed th ??
 
