@@ -84,8 +84,8 @@ slides:
 
 <b>Sources:</b><br />
 https://yunnansourcing.com/products/high-mountain-jiang-mu-xiang-ginger-aroma-dan-cong-1
-
-
+https://camellia-sinensis.com/en/blog/tasting-notes-dan-cong-wulong
+http://tea-obsession.blogspot.com/2011/11/jiang-mu-xiang-ginger-flower-fragrance.html
 
 
 "Jiang Mu Xiang" Dan Cong (Ginger Aroma) is a unique varietal of Dan Cong.  It's a naturally occuring hybrid of Feng Huang area Shui Xian that has been selected over a period of two centuries.  Jiang Mu Xiang Dan Cong grows at around 1200 meters of altitude in the north of Feng Huang in a village called Tou She.  The plants grow naturally, many reaching a height of 3 or even 4 meters!
