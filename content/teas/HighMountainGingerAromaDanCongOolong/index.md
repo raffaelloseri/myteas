@@ -1,5 +1,5 @@
 ---
-title: "High Mountain Ginger Aroma Dan Cong Oolong"
+title: "High Mountain (姜母香, Jiang Mu Xiang) Ginger Aroma Dan Cong Oolong"
 authors:
 - Tea Runners
 author_notes:
@@ -65,7 +65,7 @@ slides:
 ---
 
 <b>Origin:</b><br />
-: ...
+: Tou She (village), Feng Huang (town), Raoping County of Guangdong Province
 
 <b>Colour:</b><br />
 : ...
@@ -83,3 +83,15 @@ slides:
 : ...
 
 <b>Sources:</b><br />
+https://yunnansourcing.com/products/high-mountain-jiang-mu-xiang-ginger-aroma-dan-cong-1
+
+
+
+
+"Jiang Mu Xiang" Dan Cong (Ginger Aroma) is a unique varietal of Dan Cong.  It's a naturally occuring hybrid of Feng Huang area Shui Xian that has been selected over a period of two centuries.  Jiang Mu Xiang Dan Cong grows at around 1200 meters of altitude in the north of Feng Huang in a village called Tou She.  The plants grow naturally, many reaching a height of 3 or even 4 meters!
+
+The taste of "Jiang Mu Xiang" tea is incredibly complex and powerful, while still remaining well within the realm of refinement and elegance!  There is sweetness, spiciness (much like raw ginger), floral notes (like Ginger Flower), bitterness and astringency.  The tea is very thick and lubricating and easily goes 10+ infusions when brewed gong fu style.  Tea soup is gold-orange, the brewed leaves still mostly green with some wilted brown (as is typical of traditional Dan Cong processing).
+
+Late April Harvest
+
+.
