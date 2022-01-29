@@ -1,9 +1,9 @@
 ---
-title: "High Mountain (姜母香, Jiang Mu Xiang) Ginger Aroma Dan Cong Oolong"
+title: "High Mountain (姜母香, Jiang Mu Xiang) Ginger Aroma Dan Cong Oolong Tea"
 authors:
 - Tea Runners
 author_notes:
-- "??"
+- "https://tearunners.com/"
 date: ""
 doi: ""
 
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'High Mountain Ginger Aroma Dan Cong Oolong Tea'
   focal_point: ""
   preview_only: false
 
