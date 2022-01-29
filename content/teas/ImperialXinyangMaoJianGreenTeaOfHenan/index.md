@@ -26,7 +26,7 @@ abstract:
 summary:
 
 tags:
-- Oolong tea
+- Green tea
 - China
 featured: false
 
