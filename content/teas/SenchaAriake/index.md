@@ -91,9 +91,6 @@ slides:
 : Moreover, the tea is less astringent and sweeter, and this counterbalances the usual vegetal umami taste of Sencha.
 : This particular tea is produced in limited quantity (22 kg) for the seller.
 
-{{< openstreetmap mapName="<SenchaAriake>" >}}
-
-
 <b>Sources:</b><br />
 https://www.palaisdesthes.com/en/sencha-ariake-284.html
 https://www.curioustea.com/tea/green-tea/ariake-fukamushi-sencha/
