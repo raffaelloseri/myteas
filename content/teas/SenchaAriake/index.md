@@ -84,7 +84,7 @@ slides:
 : Iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note), sweet aftertaste
 
 <b>Notes:</b><br />
-: Sencha (煎茶, infused tea) is a type of Japanese green tea (*ryokucha*, 緑茶) ??
+: *Sencha* (煎茶, infused tea) is a type of Japanese green tea (*ryokucha*, 緑茶). It differs from *gyokuro* because it is unshaded and ??
 : The name of the tea comes from the former town of Ariake (有明町, Ariake-chō) located in Soo District, Kagoshima Prefecture, Japan. In 2006, Ariake, together with Matsuyama, merged into the city of Shibushi.
 : As most Japanese green tea, this tea is steamed (and not pan roasted). The characteristic of this Sencha in particular is that it is a *fukamushi* (深蒸し) or deep steamed Sencha. Fukamushi tea is steamed for 1-2', in contrast with *futsuumushi* (普通蒸し) or normal steamed tea, for 30''-1', and *asamushi* (浅蒸し) or light steamed tea, for less than 30''. Despite the process is generally reserved to Sencha, other Japanese green teas can be deep steamed too.
 : The longer steaming process imparts special characteristics to the tea. The leaves are so soft after steaming that, during the following step of the process, i.e. rolling, they tend to break, thus explaining the quantity of fragments present in the tea along with the leaves. As a result, the liquor has a brighter and cloudier green colour with visible sediment. This explains why in Japan specially designed teapots, with a larger filter and a finer mesh, are used for fukamushicha.
