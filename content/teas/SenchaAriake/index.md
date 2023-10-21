@@ -91,7 +91,7 @@ slides:
 : Moreover, the tea is less astringent and sweeter, and this counterbalances the usual vegetal umami taste of Sencha.
 : This particular tea is produced in limited quantity (22 kg) for the seller.
 
-{{< openstreetmap mapName="carte-sans-nom_230565" miniMap="true" scale="7" coordX="46.0275" coordY="7.483" >
+{{< openstreetmap mapName="https://umap.openstreetmap.fr/en/map/new/?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true" miniMap="true" scale="7" coordX="46.0275" coordY="7.483" >
 
 
 <b>Sources:</b><br />
