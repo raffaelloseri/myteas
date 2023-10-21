@@ -75,13 +75,13 @@ slides:
 : Cloudy bright green colour
 
 <b>Texture in the mouth:</b><br />
-: Smooth and velvety
+: Velvety, smooth 
 
 <b>Flavour:</b><br />
 : ??
 
 <b>Aromas:</b><br />
-: Iodine to start, marine (raw fish and seaweed), vegetal (cooked vegetable to start followed by an underlying cut grass note), sweet aftertaste
+: Iodine and marine (fish, seaweed), vegetal (cooked green leaves and cut grass), sweet aftertaste
 
 <b>Notes:</b><br />
 : *Sencha* (煎茶, infused tea) is a type of Japanese green tea (*ryokucha*, 緑茶). It differs from *gyokuro* because it is unshaded and ??
@@ -90,6 +90,8 @@ slides:
 : The longer steaming process imparts special characteristics to the tea. The leaves are so soft after steaming that, during the following step of the process, i.e. rolling, they tend to break, thus explaining the quantity of fragments present in the tea along with the leaves. As a result, the liquor has a brighter and cloudier green colour with visible sediment. This explains why in Japan specially designed teapots, with a larger filter and a finer mesh, are used for fukamushicha.
 : Moreover, the tea is less astringent and sweeter, and this counterbalances the usual vegetal umami taste of Sencha.
 : This particular tea is produced in limited quantity (22 kg) for the seller.
+
+<iframe src="https://osm.org/go/5vJYdAA-?relation=3962386" width="600" height="450" frameborder="0" style="border:0"></iframe>
 
 <b>Sources:</b><br />
 https://www.palaisdesthes.com/en/sencha-ariake-284.html
