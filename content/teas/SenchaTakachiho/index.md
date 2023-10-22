@@ -1,5 +1,5 @@
 ---
-title: "Sencha Takachiho (煎茶 有明)"
+title: "Sencha Takachiho (煎茶 高千穂)"
 authors:
 - Lupicia
 author_notes:
@@ -101,3 +101,4 @@ https://www.matchashop.de/en/japanese-tea/sencha/sencha-takachiho.html
 https://japanteashop.com/de/sencha-takachiho.html
 https://japanische-lebensart.de/produkt/tee-teezeremonie/gruentee/sencha-takachiho-100g-kyushu
 https://www.saroshi.de/1773
+https://www.klang-stille.de/TAKACHIHO.htm
