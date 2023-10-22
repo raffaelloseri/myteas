@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Sencha Ariake'
+  caption: 'Sencha Takachiho'
   focal_point: ""
   preview_only: false
 
@@ -69,7 +69,7 @@ slides:
 {{< figure src="/SenchaTakachiho.b.jpeg" width="400" alt="Sencha Takachiho" class="center" >}}
 
 <b>Origin:</b><br />
-: Kagoshima prefecture, Kyushu, Japan
+: Miyazaki prefecture, Kyushu, Japan
 
 <b>Cultivar:</b><br />
 : Yabukita
