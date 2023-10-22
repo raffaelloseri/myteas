@@ -78,10 +78,10 @@ slides:
 : Velvety, smooth 
 
 <b>Flavour:</b><br />
-: ??
+: ?? with very little astringency or bitterness, sweet aftertaste
 
 <b>Aromas:</b><br />
-: Iodine and marine (fish, seaweed), vegetal (cooked green leaves and cut grass), sweet aftertaste
+: Iodized and marine (fish, seaweed), vegetal (cooked green leaves, cut grass)
 
 <b>Notes:</b><br />
 : *Sencha* (煎茶, infused tea) is a type of Japanese green tea (*ryokucha*, 緑茶). It differs from *gyokuro* because it is unshaded and ??
