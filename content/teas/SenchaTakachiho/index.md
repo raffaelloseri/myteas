@@ -1,9 +1,9 @@
 ---
-title: "Sencha Ariake (煎茶 有明)"
+title: "Sencha Takachiho (煎茶 有明)"
 authors:
-- Tea in Italy
+- Lupicia
 author_notes:
-- "Varese (I)"
+- "Paris (F)"
 date: ""
 doi: ""
 
@@ -64,15 +64,15 @@ projects: []
 slides:
 ---
 
-{{< figure src="/SenchaAriake.a.jpeg" width="400" alt="Sencha Ariake" class="center" >}}
+{{< figure src="/SenchaTakachiho.a.jpeg" width="400" alt="Sencha Takachiho" class="center" >}}
 
-{{< figure src="/SenchaAriake.b.jpeg" width="400" alt="Sencha Ariake" class="center" >}}
+{{< figure src="/SenchaTakachiho.b.jpeg" width="400" alt="Sencha Takachiho" class="center" >}}
 
 <b>Origin:</b><br />
 : Kagoshima prefecture, Kyushu, Japan
 
 <b>Cultivar:</b><br />
-: --
+: Yabukita
 
 <b>Colour:</b><br />
 : Cloudy bright green colour
@@ -95,7 +95,9 @@ slides:
 : This particular tea is produced in limited quantity (22 kg) for the seller.
 
 <b>Sources:</b><br />
-https://www.palaisdesthes.com/en/sencha-ariake-284.html
-https://www.curioustea.com/tea/green-tea/ariake-fukamushi-sencha/
-https://japanesetea.sg/japanese-tea-pedia/fukamushi-sencha/
-https://www.myjapanesegreentea.com/fukamushicha
+https://en.lupicia.fr/s/29786_178105_sencha-takachiho
+https://www.lupicia.com.au/17/japanese-green-tea/728/sencha-takachiho
+https://www.matchashop.de/en/japanese-tea/sencha/sencha-takachiho.html
+https://japanteashop.com/de/sencha-takachiho.html
+https://japanische-lebensart.de/produkt/tee-teezeremonie/gruentee/sencha-takachiho-100g-kyushu
+https://www.saroshi.de/1773
