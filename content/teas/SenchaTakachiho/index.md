@@ -98,9 +98,15 @@ slides:
 
 <b>Sources:</b><br />
 https://en.lupicia.fr/s/29786_178105_sencha-takachiho
+
 https://www.lupicia.com.au/17/japanese-green-tea/728/sencha-takachiho
+
 https://www.matchashop.de/en/japanese-tea/sencha/sencha-takachiho.html
+
 https://japanteashop.com/de/sencha-takachiho.html
+
 https://japanische-lebensart.de/produkt/tee-teezeremonie/gruentee/sencha-takachiho-100g-kyushu
+
 https://www.saroshi.de/1773
+
 https://www.klang-stille.de/TAKACHIHO.htm
