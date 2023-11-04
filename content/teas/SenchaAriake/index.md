@@ -94,7 +94,7 @@ slides:
 : Moreover, the tea is less astringent and sweeter, and this counterbalances the usual vegetal umami taste of Sencha.
 : This particular tea is produced in limited quantity (22 kg) for the seller.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108890.08831527155!2d130.89796626108418!3d31.47426771458988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x353ec1b79389c779%3A0x5f1265cad98bef1f!2sOsaki%2C%20Soo%20District%2C%20Kagoshima%2C%20Japan!5e0!3m2!1sen!2sit!4v1699091356592!5m2!1sen!2sit" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108890.08831527155!2d130.89796626108418!3d31.47426771458988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x353ec1b79389c779%3A0x5f1265cad98bef1f!2sOsaki%2C%20Soo%20District%2C%20Kagoshima%2C%20Japan!5e0!3m2!1sen!2sit!4v1699091356592!5m2!1sen!2sit" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <b>Sources:</b><br />
 https://www.palaisdesthes.com/en/sencha-ariake-284.html
