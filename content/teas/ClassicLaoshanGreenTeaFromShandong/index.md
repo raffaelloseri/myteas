@@ -73,6 +73,9 @@ slides:
 <b>Origin:</b><br />
 : Laoshan, province of Shandong, China
 
+<b>Producer:</b><br />
+: Liang family (https://yunnansourcing.com/pages/laoshan-village-shandong-liang-family-tea-plantation-pictures)
+
 <b>Cultivar:</b><br />
 : Long Jing #43
 
